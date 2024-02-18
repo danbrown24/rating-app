@@ -8,6 +8,7 @@ Having used React Native extensively for iOS and Android development, this was m
 
 I used [Infinite Red's excellent React Native boilerplate](https://github.com/infinitered/ignite) as a starting point for an Expo Go project. The backend is powered by Firebase.
 
+![savvy](https://github.com/danbrown24/rating-app/assets/12571995/132a8414-c690-4ec7-8c3a-e73ac7f216c8)
 
 ## Quick Start
 
